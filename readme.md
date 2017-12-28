@@ -1,27 +1,22 @@
-# this is a large heading 
+# Seung Hoon Ha
 
-## this is a smaller heading
+### Geography
 
-and as **imagination** bodies forth,
-the forms of things *unknown*, the poet's pen, 
-turns them to shapes and gives to airy nothing,
-a local *habitation* and a **name**.
+I live in Sydney, Australia, one of the most beautiful cities of the world.
 
-- this is
-- an unordered
-- list
+### Reading
 
-here is 'some code' in the middle of a sentence
+Three of my favourite books are:
 
-```
-this is 
-a block
-of code
-```
+- *Sapiens* by 
+- *Homo Deus* by
+- *Power of Habits* by
 
-here is how you make [a link](http://www.wikipedia.org/).
+### Food
 
-![this is an image.](http://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+I love cooking food. 
 
+### Contact
 
+The best way to get in touch with me is [on Instagram](https://instagram.com/seunghoonha).
 

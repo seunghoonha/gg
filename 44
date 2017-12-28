@@ -1,8 +1,0 @@
-function ee {
-
-  echo "say"
-  echo "yes"
-  echo "to"
-  echo "new"
-  echo "adventures"
-}
